@@ -1,0 +1,11 @@
+{
+    "workout" : [
+        {
+        "id" : 1,
+        "exercise" : "Legs",
+        "reps" : 15
+        }
+    ]
+
+}
+
